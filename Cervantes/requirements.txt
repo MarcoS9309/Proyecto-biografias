@@ -1,0 +1,8 @@
+# Sistema Cervantino Interactivo - Requisitos
+# Este proyecto no requiere dependencias externas
+# Solo necesita Python 3.7 o superior
+
+# Para desarrollo futuro, podrías considerar:
+# colorama>=0.4.4  # Para colores multiplataforma
+# rich>=10.0.0     # Para interfaces de terminal más ricas
+# pytest>=6.0.0    # Para pruebas unitarias
